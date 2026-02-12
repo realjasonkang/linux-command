@@ -9,6 +9,13 @@
   <a href="https://go.warp.dev/linux-command"><b>Warp, the intelligent terminal for developers!</b></a><br>
   <a href="https://go.warp.dev/linux-command">Available for MacOS, Linux, & Windows</a><br><br>
 
+  <a href="https://pawakalabs.com/products/fakey/">
+    <img alt="Fakey sponsorship" width="400" src="./template/img/fakey.png">
+  </a>
+  <br>
+  <a href="https://pawakalabs.com/products/fakey/"><b>Fakey - Manga Translator</b></a><br>
+  <a href="https://pawakalabs.com/products/fakey/">Available for Android, iOS and browser extension</a><br><br>
+
   <br><br>
 </div>
 <hr>
@@ -70,11 +77,9 @@
 
 ## Web 版本
 
-[Github Web](http://jaywcjlove.github.io/linux-command/) | [Gitee Web](http://jaywcjlove.gitee.io/linux-command/) | [Githack](https://raw.githack.com/jaywcjlove/linux-command/gh-pages/index.html) | [Statically](https://cdn.statically.io/gh/jaywcjlove/linux-command/gh-pages/index.html)
+[Github Web](http://jaywcjlove.github.io/linux-command/) | [Githack](https://raw.githack.com/jaywcjlove/linux-command/gh-pages/index.html) | [Statically](https://cdn.statically.io/gh/jaywcjlove/linux-command/gh-pages/index.html)
 
 扫描二维码移动端预览搜索，也可通过二维码下面链接地址打开使用，下面网站是通过 Github Action 自动更新。
-
-⚠️ [Gitee Web](http://jaywcjlove.gitee.io/linux-command/) 存在 `违禁违规` 内容问题 [#283](https://github.com/jaywcjlove/linux-command/issues/283)。
 
 [![Linux 命令大全](https://user-images.githubusercontent.com/1680273/123261718-ab585380-d529-11eb-86e1-e97cdcd78150.png)](https://jaywcjlove.github.io/linux-command/)
 
@@ -90,6 +95,7 @@
 
 **推荐使用的镜像 web 版本**
 
+[**`chaoxi.online`**](https://linux.chaoxi.online)
 [**`iced.eu.org`**](https://command.iced.eu.org/)
 [**`85604608.xyz`**](https://85604608.xyz)
 [**`ykkit.cn`**](https://linux.ykkit.cn)
@@ -491,7 +497,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/Evilrabbit520" title="Wang Yujia"><img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Yujia"/></a>
 <a href="https://github.com/sundakai" title="永恒"><img src="https://avatars.githubusercontent.com/u/21995250?v=4" width="42;" alt="永恒"/></a>
 <a href="https://github.com/Jeffery186" title="Shell"><img src="https://avatars.githubusercontent.com/u/39795988?v=4" width="42;" alt="Shell"/></a>
-<a href="https://github.com/xhal" title="xhal"><img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="xhal"/></a>
+<a href="https://github.com/xhal" title="H Liu"><img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="H Liu"/></a>
 <a href="https://github.com/weironz" title="will"><img src="https://avatars.githubusercontent.com/u/33590311?v=4" width="42;" alt="will"/></a>
 <a href="https://github.com/Wvvatt" title="VVatt"><img src="https://avatars.githubusercontent.com/u/38394031?v=4" width="42;" alt="VVatt"/></a>
 <a href="https://github.com/jcdj666" title="jcdj666"><img src="https://avatars.githubusercontent.com/u/38837009?v=4" width="42;" alt="jcdj666"/></a>
